@@ -1,0 +1,15 @@
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\bin\Debug\net8.0\StudentManagement.Application.deps.json
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\bin\Debug\net8.0\StudentManagement.Application.dll
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\bin\Debug\net8.0\StudentManagement.Application.pdb
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\bin\Debug\net8.0\StudentManagement.Domain.dll
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\bin\Debug\net8.0\StudentManagement.Domain.pdb
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\StudentManagement.Application.csproj.AssemblyReference.cache
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\StudentManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\StudentManagement.Application.AssemblyInfoInputs.cache
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\StudentManagement.Application.AssemblyInfo.cs
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\StudentManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\StudentM.589D761C.Up2Date
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\StudentManagement.Application.dll
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\refint\StudentManagement.Application.dll
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\StudentManagement.Application.pdb
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\ref\StudentManagement.Application.dll

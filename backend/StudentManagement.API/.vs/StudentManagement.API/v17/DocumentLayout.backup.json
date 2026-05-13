@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.api\\studentmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\studentmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6EAD0E-BA4C-423F-832A-4AB7EF84917D}|StudentManagement.API\\StudentManagement.API.csproj|solutionrelative:studentmanagement.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D38A5D3-684D-490B-BC89-4E5190296334}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D38A5D3-684D-490B-BC89-4E5190296334}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.application\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.application\\dtos\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dtos\\studentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.application\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dtos\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.application\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dtos\\studentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.application\\studentmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50BB8CFC-825F-4D2C-A6BE-F3EDB97564B9}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\studentmanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D38A5D3-684D-490B-BC89-4E5190296334}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D38A5D3-684D-490B-BC89-4E5190296334}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D38A5D3-684D-490B-BC89-4E5190296334}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.infrastructure\\studentmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D38A5D3-684D-490B-BC89-4E5190296334}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\studentmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAE1633-F679-4CAF-BD4B-53441EB3551A}|StudentManagement.Domain\\StudentManagement.Domain.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADAE1633-F679-4CAF-BD4B-53441EB3551A}|StudentManagement.Domain\\StudentManagement.Domain.csproj|solutionrelative:studentmanagement.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADAE1633-F679-4CAF-BD4B-53441EB3551A}|StudentManagement.Domain\\StudentManagement.Domain.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.domain\\studentmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADAE1633-F679-4CAF-BD4B-53441EB3551A}|StudentManagement.Domain\\StudentManagement.Domain.csproj|solutionrelative:studentmanagement.domain\\studentmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D38A5D3-684D-490B-BC89-4E5190296334}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\raj\\onedrive\\desktop\\student-mangsystm\\backend\\studentmanagement.api\\studentmanagement.infrastructure\\migrations\\20260512205256_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D38A5D3-684D-490B-BC89-4E5190296334}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\migrations\\20260512205256_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\Services\\JwtService.cs",
+              "RelativeToolTip": "StudentManagement.Application\\Services\\JwtService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:33:13.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "StudentManagement.Application\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:31:54.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\Program.cs",
+              "RelativeToolTip": "StudentManagement.API\\Program.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAgwNUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T20:50:47.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentManagement.API.csproj",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\StudentManagement.API.csproj",
+              "RelativeDocumentMoniker": "StudentManagement.API\\StudentManagement.API.csproj",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\StudentManagement.API.csproj",
+              "RelativeToolTip": "StudentManagement.API\\StudentManagement.API.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T21:56:50.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "StudentManagement.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA2wCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:52:45.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagement.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:24:02.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\appsettings.json",
+              "RelativeToolTip": "StudentManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T20:48:21.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentManagement.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:45:51.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:30:31.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentManagement.Application\\Services\\StudentService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:14:23.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:13:20.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagement.Application\\Interfaces\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:09:23.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentManagement.Application\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:07:54.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\DTOs\\StudentResponseDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DTOs\\StudentResponseDto.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\DTOs\\StudentResponseDto.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DTOs\\StudentResponseDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T20:59:47.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\DTOs\\StudentUpdateDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DTOs\\StudentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\DTOs\\StudentUpdateDto.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DTOs\\StudentUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T20:58:44.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\DTOs\\StudentCreateDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DTOs\\StudentCreateDto.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\DTOs\\StudentCreateDto.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DTOs\\StudentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T20:57:32.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentManagement.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\StudentManagement.Application.csproj",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\StudentManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Application\\StudentManagement.Application.csproj",
+              "RelativeToolTip": "StudentManagement.Application\\StudentManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T20:55:43.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260512205256_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Infrastructure\\Migrations\\20260512205256_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Migrations\\20260512205256_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Infrastructure\\Migrations\\20260512205256_InitialCreate.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\Migrations\\20260512205256_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T20:52:57.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T20:47:16.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagement.Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T20:44:31.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentManagement.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T20:30:15.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentManagement.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Domain\\StudentManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "StudentManagement.Domain\\StudentManagement.Domain.csproj",
+              "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Domain\\StudentManagement.Domain.csproj",
+              "RelativeToolTip": "StudentManagement.Domain\\StudentManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T20:30:14.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
