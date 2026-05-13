@@ -10,6 +10,17 @@ This project allows users to manage student records with features like authentic
 students, and viewing all student records through a modern responsive dashboard.
 
 
+# Screenshots
+
+## Login Page
+![Login Page](screenshots/LoginPage.png)
+
+## Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+## SwaggerAPI
+![SwaggerAPI](screenshots/SwaggerApi.png)
+
 # 3. Features
 
 - JWT Authentication
@@ -21,8 +32,6 @@ students, and viewing all student records through a modern responsive dashboard.
 - Responsive UI Design
 - REST API Integration
 - Swagger API Documentation
-
-
 
 # 4. Technologies Used
 
@@ -98,18 +107,6 @@ POST /api/students
 PUT /api/students/{id}
 DELETE /api/students/{id}
 
-
-# Screenshots
-
-## Login Page
-![Login Page](screenshots/LoginPage.png)
-
-## Dashboard
-![Dashboard](screenshots/Dashboard.png)
-
-## SwaggerAPI
-![SwaggerAPI](screenshots/SwaggerApi.png)
-
 8. Future Improvements
 1.User Registration System
 2.Role-Based Authentication
@@ -120,3 +117,5 @@ DELETE /api/students/{id}
 7.Refresh Token Authentication
 8.Dark Mode UI
 
+## Author
+Rajkumar Prajapati
