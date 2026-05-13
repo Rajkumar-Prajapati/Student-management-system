@@ -100,6 +100,15 @@ POST /api/students
 PUT /api/students/{id}
 DELETE /api/students/{id}
 
+
+# Screenshots
+
+## Login Page
+![Login Page](screenshots/LoginPage.png)
+
+## Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
 8. Future Improvements
 1.User Registration System
 2.Role-Based Authentication

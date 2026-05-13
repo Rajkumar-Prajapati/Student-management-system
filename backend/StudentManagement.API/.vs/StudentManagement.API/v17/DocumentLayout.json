@@ -118,8 +118,7 @@
               "RelativeToolTip": "StudentManagement.Application\\Interfaces\\IJwtService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T21:31:54.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T21:31:54.792Z"
             },
             {
               "$type": "Document",
@@ -131,8 +130,7 @@
               "RelativeToolTip": "StudentManagement.Application\\Interfaces\\IStudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T21:07:54.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T21:07:54.048Z"
             },
             {
               "$type": "Document",
@@ -144,8 +142,7 @@
               "RelativeToolTip": "StudentManagement.Application\\Interfaces\\IStudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T21:09:23.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T21:09:23.038Z"
             },
             {
               "$type": "Document",
@@ -157,8 +154,7 @@
               "RelativeToolTip": "StudentManagement.Application\\Services\\JwtService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAzwB0AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T21:33:13.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T21:33:13.118Z"
             },
             {
               "$type": "Document",
@@ -170,8 +166,7 @@
               "RelativeToolTip": "StudentManagement.Application\\Services\\StudentService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T21:14:23.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T21:14:23.003Z"
             },
             {
               "$type": "Document",
@@ -183,8 +178,7 @@
               "RelativeToolTip": "StudentManagement.Domain\\Entities\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T20:44:31.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T20:44:31.282Z"
             },
             {
               "$type": "Document",
@@ -196,8 +190,7 @@
               "RelativeToolTip": "StudentManagement.Infrastructure\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T20:47:16.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T20:47:16.512Z"
             },
             {
               "$type": "Document",
@@ -207,7 +200,7 @@
               "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
               "ToolTip": "C:\\Users\\RAJ\\OneDrive\\Desktop\\student-mangSystm\\backend\\StudentManagement.API\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
               "RelativeToolTip": "StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwCMAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T21:13:20.345Z",
               "EditorCaption": ""
@@ -222,8 +215,7 @@
               "RelativeToolTip": "StudentManagement.Application\\DTOs\\StudentUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T20:58:44.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T20:58:44.892Z"
             },
             {
               "$type": "Document",
@@ -235,8 +227,7 @@
               "RelativeToolTip": "StudentManagement.Application\\DTOs\\StudentResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T20:59:47.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T20:59:47.173Z"
             },
             {
               "$type": "Document",
@@ -248,8 +239,7 @@
               "RelativeToolTip": "StudentManagement.Application\\DTOs\\StudentCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T20:57:32.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T20:57:32.538Z"
             },
             {
               "$type": "Document",
@@ -261,8 +251,7 @@
               "RelativeToolTip": "StudentManagement.Application\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T21:30:31.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T21:30:31.733Z"
             },
             {
               "$type": "Document",
@@ -274,8 +263,7 @@
               "RelativeToolTip": "StudentManagement.API\\StudentManagement.API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-05-13T08:08:50.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T08:08:50.344Z"
             },
             {
               "$type": "Document",
@@ -287,8 +275,7 @@
               "RelativeToolTip": "StudentManagement.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T20:50:47.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T20:50:47.764Z"
             },
             {
               "$type": "Document",
@@ -300,8 +287,7 @@
               "RelativeToolTip": "StudentManagement.API\\Middleware\\ExceptionMiddleware.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T21:52:45.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T21:52:45.518Z"
             },
             {
               "$type": "Document",
@@ -313,8 +299,7 @@
               "RelativeToolTip": "StudentManagement.API\\Controllers\\StudentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T21:24:02.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T21:24:02.527Z"
             },
             {
               "$type": "Document",
@@ -326,8 +311,7 @@
               "RelativeToolTip": "StudentManagement.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T21:45:51.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T21:45:51.801Z"
             },
             {
               "$type": "Document",
@@ -339,8 +323,7 @@
               "RelativeToolTip": "StudentManagement.API\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T08:06:28.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T08:06:28.014Z"
             },
             {
               "$type": "Document",
@@ -352,8 +335,7 @@
               "RelativeToolTip": "StudentManagement.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-12T20:48:21.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T20:48:21.317Z"
             },
             {
               "$type": "Document",

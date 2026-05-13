@@ -168,3 +168,4 @@ C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\St
 C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
 C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.API\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.API\obj\Debug\net8.0\StudentManagement.API.sourcelink.json

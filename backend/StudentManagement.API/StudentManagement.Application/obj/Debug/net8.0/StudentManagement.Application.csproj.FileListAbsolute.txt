@@ -13,3 +13,4 @@ C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\St
 C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\refint\StudentManagement.Application.dll
 C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\StudentManagement.Application.pdb
 C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\ref\StudentManagement.Application.dll
+C:\Users\RAJ\OneDrive\Desktop\student-mangSystm\backend\StudentManagement.API\StudentManagement.Application\obj\Debug\net8.0\StudentManagement.Application.sourcelink.json
