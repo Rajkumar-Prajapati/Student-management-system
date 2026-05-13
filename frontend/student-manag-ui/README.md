@@ -109,6 +109,9 @@ DELETE /api/students/{id}
 ## Dashboard
 ![Dashboard](screenshots/Dashboard.png)
 
+## SwaggerAPI
+![SwaggerAPI](screenshots/SwaggerApi.png)
+
 8. Future Improvements
 1.User Registration System
 2.Role-Based Authentication
